@@ -11,7 +11,7 @@ Time spent: **6** hours spent in total
 The following **required** functionality is completed:
 
 * [x] User can **view a list of todo items**
-* [ ] User can **successfully add and remove items** from the todo list
+* [x] User can **successfully add and remove items** from the todo list
 * [x] User's **list of items are persisted** across app restarts
 
 The following **bonus** features are implemented:
@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='walkthrough.gif' title='Video Walkthrough' width='400' alt='Video Walkthrough' />
 
 GIF created with QuickTime Player (Kap kept crashing and issue could not be resolved in time).
 
