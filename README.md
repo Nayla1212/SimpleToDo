@@ -1,18 +1,18 @@
-# Project 1 - *Simple To Do*
+# Project 1 - *Simple Todo*
 
 **Name of your app** is an android app that allows building a todo list and basic todo items management functionality including adding new items, editing and deleting an existing item.
 
-Submitted by: **Your Name Here**
+Submitted by: **Nayla Boorady**
 
-Time spent: **X** hours spent in total
+Time spent: **6** hours spent in total
 
 ## User Stories
 
 The following **required** functionality is completed:
 
-* [ ] User can **view a list of todo items**
+* [x] User can **view a list of todo items**
 * [ ] User can **successfully add and remove items** from the todo list
-* [ ] User's **list of items are persisted** across app restarts
+* [x] User's **list of items are persisted** across app restarts
 
 The following **bonus** features are implemented:
 
