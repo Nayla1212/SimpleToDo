@@ -28,15 +28,17 @@ Here's a walkthrough of implemented user stories:
 
 <img src='walkthrough.mov' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [Kap](https://getkap.co/).
+GIF created with QuickTime Player (Kap kept crashing and issue could not be resolved in time).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I came across several challenges that all had to do with simple attention to detail. Several pre-configured settings within my code were diffferent from the tutorials, so it took me a while to figure out what was different in my preset code versus what I saw in the video. Then, when recording my project, Kap kept crashing on me so I was unable to use it to create a .gif file. Instead, I used QuickTime Player since it was already installed on my Mac and created a .mov walkthrough. I was unable to view the file when I converted it to a .gif, so I decided to keep it as a .mov. 
+
+Project 0 provided a great learning experience and helped me understand the platforms we will be using throughout the summer. There were a few hiccups here and there, but with time I hope to learn from these mistakes.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2021] [Nayla Boorady]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
